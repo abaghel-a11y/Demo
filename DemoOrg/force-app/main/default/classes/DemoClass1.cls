@@ -5,4 +5,8 @@ public with sharing class DemoClass1 {
     public static void testingmehtod(){
         system.debug('I want to push this');
     }
+
+    public static void newmethod() {
+        System.debug('Hello World');
+    }
 }
